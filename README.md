@@ -8,15 +8,16 @@
 
  ⭐ Progamadora ⭐ 
  - ✏️ Estudios :
- -   📗 Full Stack (Egg Coperation)
- -   📗 Marketing Digital (Google)
+ -      📗 Programacion desde cero (Egg Coperation)
+ -      📗 Full Stack (Egg Coperation)
+ -      📗 Marketing Digital (Google)
  - 🧑‍🏫 Objetivos :
- -   🙌 Ampliar mis conocimientos
- -   🙌 Estabilidad Laboral
- - 😎 Habilidades :
- -   🫂 Trabajo en equipo
- -   🫂 Proactividad
- -   🫂 Creatividad
- -   🫂 Ganas de aprender              
+ -       🙌 Ampliar mis conocimientos
+ -       🙌 Estabilidad Laboral
+ -  😎 Habilidades :
+ -      🫂 Trabajo en equipo
+ -      🫂 Proactividad
+ -      🫂 Creatividad
+ -      🫂 Ganas de aprender              
 <br>
 

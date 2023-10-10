@@ -18,6 +18,8 @@
  -      🫂 Trabajo en equipo
  -      🫂 Proactividad
  -      🫂 Creatividad
- -      🫂 Ganas de aprender              
+ -      🫂 Ganas de aprender
+ -   💻 HSistema operativo :
+ -      👾 windows        
 <br>
 
